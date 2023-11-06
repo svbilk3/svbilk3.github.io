@@ -1,20 +1,8 @@
 ---
-title: "Teaching experience 1"
-collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+时间: 事件
+2020年: StarkWare宣布推出StarkNet的计划，并开始开发阶段。
+2021年: StarkNet发布白皮书，详细介绍其技术和设计原理。StarkNet进行内部测试，并与一些合作伙伴进行合作验证。StarkNet团队与以太坊基金会合作，探索在以太坊上部署StarkNet的可能性。
+2022年: StarkNet推出公共Alpha测试版，公众用户可以参与测试和提供反馈。StarkNet持续改进和优化，以提高性能、安全性和用户体验。开发者社区逐渐增长，开始在StarkNet上构建和部署去中心化应用。StarkNet与其他Layer 2扩展解决方案进行比较和竞争，争夺市场份额。
+2023年: StarkNet进一步完善并推出正式版本，以供广泛使用和商业应用。StarkNet与更多的合作伙伴合作，扩大生态系统和应用场景。StarkNet面向主流用户推出营销和宣传活动，提高知名度和接受度。
+未来:  StarkNet持续发展和改进，根据用户需求和市场发展进行更新和升级。可能会推出更高级的测试网络和功能，以及与其他区块链平台的集成。StarkNet的发展方向和未来里程碑将根据团队和社区的共同决策和路线图确定。
 ---
-
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
