@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "StarkNet / Best L2"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
