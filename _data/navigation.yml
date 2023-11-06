@@ -1,18 +1,18 @@
 # main links links
 main:
-  - title: "Introduction"
+  - title: # "Introduction"
     url: /publications/
 
-  - title: "Tokenomics"
+  - title: # "Tokenomics"
     url: /talks/    
 
-  - title: "Development"
+  - title: # "Development"
     url: /teaching/    
     
-  - title: "Advantages"
+  - title: # "Advantages"
     url: /portfolio/
         
-  - title: "Ecosystem"
+  - title: # "Ecosystem"
     url: /year-archive/
     
 
