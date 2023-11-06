@@ -1,7 +1,14 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
-collection: portfolio
+优势: 描述
+可扩展性: StarkNet具有接近线性的可扩展性，能够处理数千个交易每秒，通过Layer 2解决方案提高了以太坊的吞吐量。
+安全性: 利用以太坊作为共识和安全层，StarkNet继承了以太坊的安全性，通过ZK-STARK技术生成的零知识证明确保交易的有效性。
+低费用: 相比直接在以太坊主网上交易，StarkNet能够显著降低交易费用，使用户能够以更低的成本进行交易和使用智能合约。
+EVM兼容性: StarkNet支持所有在以太坊上运行的智能合约和dApp，具有EVM兼容性，使得迁移和开发现有的以太坊应用变得简单和无缝。
+透明的有效性证明: 利用ZK-STARK技术，StarkNet提供透明的有效性证明，允许用户验证交易的有效性，而无需泄露交易的具体内容，保护用户隐私。
+开发者友好: 编写Cairo智能合约类似于现有的Solidity等语言，使得开发者可以轻松上手和迁移现有的智能合约，降低了学习和开发成本。
+去中心化的安全性: StarkNet利用以太坊的共识和安全层，保证了去中心化的安全性。与其他Layer 2解决方案相比，StarkNet具有更强的去中心化特性和安全保障。
+主流用户的可访问性: StarkNet致力于提供面向性能、易用性和去中心化的以太坊L2解决方案，使得去中心化应用更加易于接受和使用，推动去中心化应用的普及化和大规模应用。
+发展潜力和生态系统的支持: StarkNet目前处于公共Alpha阶段，具有良好的发展潜力。它吸引了不少开发者和合作伙伴，正在构建一个活跃的生态系统，为未来的发展奠定了坚实的基础。
+
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
